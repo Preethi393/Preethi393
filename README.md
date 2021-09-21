@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Preethi
+- 👋 Hi, I’m @Preethi G
 - 👀 I’m interested in Data Science, Machine learning and Artificial Intelligence
 - 🌱 I’m currently learning Python, R
 - 💞️ I’m looking to collaborate on all topics related to data science, machine learning and artificial intelligence
